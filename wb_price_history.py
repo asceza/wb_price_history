@@ -54,4 +54,3 @@ if __name__ == '__main__':
     add_data_to_csv(header_row)
     add_data_to_csv(date_row)
     add_data_to_csv(price_row)
-    add_data_to_csv([])
